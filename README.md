@@ -1,4 +1,4 @@
-## Hey there! I'm Paige Lomas \(^ヮ^)/
+## Hello World! I'm Paige Lomas \(^ヮ^)/
 
 ### About Me
 I'm an absolute beginner debating which direction to take.
